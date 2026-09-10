@@ -37,25 +37,17 @@
 ### 📈 Ko'nikmalar darajasi
 
 <p align="center">
+  <img src="./skills.svg" alt="Skills" width="520" />
+</p>
 
-**JavaScript** &nbsp;&nbsp;8/10  
-<img src="https://progress-bar.dev/80/?title=&width=500&color=f7df1e" />
+---
 
-**Java** &nbsp;&nbsp;6/10  
-<img src="https://progress-bar.dev/60/?title=&width=500&color=e76f00" />
+### 💼 Loyihalar
 
-**PHP** &nbsp;&nbsp;6/10  
-<img src="https://progress-bar.dev/60/?title=&width=500&color=777bb4" />
+> 🚧 Hozircha ochiq repository yo'q — katta hajmdagi loyiha ustida ish olib boryapman. Tez orada shu yerda paydo bo'ladi!
 
-**HTML** &nbsp;&nbsp;9/10  
-<img src="https://progress-bar.dev/90/?title=&width=500&color=e34c26" />
-
-**CSS** &nbsp;&nbsp;8/10  
-<img src="https://progress-bar.dev/80/?title=&width=500&color=264de4" />
-
-**Node.js** &nbsp;&nbsp;7/10  
-<img src="https://progress-bar.dev/70/?title=&width=500&color=68a063" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ish%20jarayonida-yellow?style=for-the-badge" />
 </p>
 
 ---
