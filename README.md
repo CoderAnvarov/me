@@ -34,15 +34,28 @@
 
 ---
 
-### 📊 GitHub statistikasi
+### 📈 Ko'nikmalar darajasi
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CoderAnvarov&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAnvarov&layout=compact&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAnvarov&theme=radical&hide_border=true" />
+**JavaScript** &nbsp;&nbsp;8/10  
+<img src="https://progress-bar.dev/80/?title=&width=500&color=f7df1e" />
+
+**Java** &nbsp;&nbsp;6/10  
+<img src="https://progress-bar.dev/60/?title=&width=500&color=e76f00" />
+
+**PHP** &nbsp;&nbsp;6/10  
+<img src="https://progress-bar.dev/60/?title=&width=500&color=777bb4" />
+
+**HTML** &nbsp;&nbsp;9/10  
+<img src="https://progress-bar.dev/90/?title=&width=500&color=e34c26" />
+
+**CSS** &nbsp;&nbsp;8/10  
+<img src="https://progress-bar.dev/80/?title=&width=500&color=264de4" />
+
+**Node.js** &nbsp;&nbsp;7/10  
+<img src="https://progress-bar.dev/70/?title=&width=500&color=68a063" />
+
 </p>
 
 ---
